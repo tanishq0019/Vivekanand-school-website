@@ -10,7 +10,11 @@ body {
     .custom-nav {
         border-radius: 50rem;
     }
+    .logo-img{
+        height: 60px;
+    }
 }
+
 .nav-link {
     transition: 0.3s;
 }
